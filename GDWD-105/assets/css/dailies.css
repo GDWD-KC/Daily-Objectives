@@ -42,6 +42,7 @@ h4 {
   text-transform: uppercase;
   border-bottom: solid 2px #fff;
   padding-bottom: 0.9em;
+  font-size: 20px;
 }
 
 img {
@@ -169,7 +170,10 @@ li {
   padding: 0.3rem;
   color: black;
 }
-
+#to-do li {
+  font-size: 20px;
+  font-weight: 400;
+}
 #landing-text-inner h2 {
   padding: 0.5rem;
 }
@@ -194,5 +198,6 @@ hr {
 }
 
 ul p {
+  font-size: 20px;
   font-weight: 600;
 }

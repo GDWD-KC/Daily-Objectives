@@ -94,7 +94,7 @@ main {
 }
 
 #landing-image {
-  background: url("../imgs/lifesize-typing.gif");
+  background: url("../assets/imgs/lifesize-typing.gif");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

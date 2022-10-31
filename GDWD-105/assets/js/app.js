@@ -29,7 +29,7 @@ function formatCountdownText(days, hours, minutes, seconds) {
 //Countdown Initialization
 
 //Set Variable for the end of the countdown (deadline)
-let deadline = new Date ("October 31, 2022 13:00:00");
+let deadline = new Date ("October 31, 2022 12:00:00");
 
 // Set Variable to select the h1 that we need
 let countdown = document.getElementById("countdown");

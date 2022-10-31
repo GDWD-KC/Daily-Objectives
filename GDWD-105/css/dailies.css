@@ -228,7 +228,7 @@ ul p {
 #countdownheader {
   margin-top: 25px;
   color: darkorange;
-  font-size: 28px;
+  font-size: 50px;
   letter-spacing: 3px;
   text-transform: uppercase;
   text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
@@ -236,4 +236,9 @@ ul p {
 
 #countdown {
   font-weight: 500;
+}
+
+
+#gif {
+  width: 30%;
 }

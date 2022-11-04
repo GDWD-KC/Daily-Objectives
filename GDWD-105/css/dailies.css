@@ -44,7 +44,7 @@ h4 {
   text-transform: uppercase;
   /* border-bottom: solid 2px #fff; */
   /* padding-bottom: 20px; */
-  font-size: 25px;
+  font-size: 30px;
   text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
 }
 
@@ -149,7 +149,7 @@ main {
   letter-spacing: 4px;
   text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
   font-weight: 700;
-  font-size: 1.3em;
+  font-size: 1.4em;
   text-transform: uppercase;
 }
 
@@ -187,7 +187,7 @@ li {
   color: black;
 }
 #to-do li {
-  font-size: 20px;
+  font-size: 23px;
   font-weight: 500;
 }
 #landing-text-inner h2 {
@@ -214,7 +214,7 @@ hr {
 }
 
 ul p {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 600;
 }
 
@@ -228,14 +228,14 @@ ul p {
 #countdownheader {
   margin-top: 25px;
   color: red;
-  font-size: 30px;
+  font-size: 35px;
   letter-spacing: 3px;
   text-transform: uppercase;
   text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
 }
 
 #countdown {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 #gif {

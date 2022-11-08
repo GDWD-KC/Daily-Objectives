@@ -40,10 +40,9 @@ h3 {
   letter-spacing: 4px;
 }
 
-h4 {
+ul h4 {
   text-transform: uppercase;
-  /* border-bottom: solid 2px #fff; */
-  /* padding-bottom: 20px; */
+  margin: 25px;
   font-size: 30px;
   text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
 }
@@ -214,7 +213,7 @@ hr {
 }
 
 ul p {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 600;
 }
 
